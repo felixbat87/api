@@ -1,0 +1,10 @@
+npm init -y
+npm i mysql express cors
+
+power shell administrador error para levantar puerto de
+net stop winnat //para procesos
+
+net start winnat // iniciarlos
+net stop winnat net stop winnat 
+
+//SELECT * FROM bankchurners WHERE CLIENTNUM=?;
